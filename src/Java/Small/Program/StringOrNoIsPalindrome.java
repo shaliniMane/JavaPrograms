@@ -10,7 +10,7 @@ public class StringOrNoIsPalindrome {
 		 String original, reverse = "";
 	        Scanner in = new Scanner(System.in);
 	        int length;
-	        System.out.println("Enter the String");
+	        System.out.println("Enter the String====");
 	        original = in.nextLine();
 	        length = original.length();
 	        for (int i =length -1; i>=0; i--) {
