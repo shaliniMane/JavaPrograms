@@ -4,7 +4,7 @@ public class FindRepeatedchar {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+     System.out.println("Hello updated code");
 		 String str = new String("Shallllini");
          char[] chars = str.toCharArray();
          System.out.println("Duplicate characters are:");
@@ -20,7 +20,6 @@ public class FindRepeatedchar {
                       }
                                  
                      }
-
          }
 	}
 
