@@ -28,7 +28,10 @@ public class Arraylist {
         // Printing elements one by one
         for (int i = 0; i < al.size(); i++)
             System.out.print(al.get(i) + " ");
+        
+        System.out.println("Shaloni");
 
 	}
+	
 
 }
