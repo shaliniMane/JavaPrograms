@@ -3,7 +3,7 @@ package Java.Small.Program;
 import java.util.ArrayList;
 
 public class Arraylist {
-
+// comment by shalini
 	public static void main(String[] args) {
 		// changed code here
 		 // Declaring the ArrayList with
