@@ -17,7 +17,7 @@ public class Arraylist {
  
         // Printing elements
         System.out.println(al);
- 
+ // testing demo
         // Remove element at index 3
         al.remove(3);
  
