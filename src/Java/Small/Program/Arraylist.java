@@ -18,6 +18,8 @@ public class Arraylist {
         // Printing elements
         System.out.println(al);
  
+        System.out.println("Shaloni");
+        
         // Remove element at index 3
         al.remove(3);
  
@@ -30,8 +32,6 @@ public class Arraylist {
             System.out.print(al.get(i) + " ");
         
         System.out.println("Shaloni");
-
 	}
 	
-
 }
