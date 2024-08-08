@@ -14,11 +14,9 @@ public class Arraylist {
         // the end of the list
         for (int i = 1; i <= 5; i++)
             al.add(i);
- 
+
         // Printing elements
         System.out.println(al);
- // testing demo
-        // Remove element at index 3
         al.remove(3);
  
         // Displaying the ArrayList
@@ -28,7 +26,6 @@ public class Arraylist {
         // Printing elements one by one
         for (int i = 0; i < al.size(); i++)
             System.out.print(al.get(i) + " ");
-
 	}
-
+	
 }
