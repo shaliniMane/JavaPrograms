@@ -14,7 +14,7 @@ public class HashmapandVector {
         Vector<Integer> v = new Vector();
         Hashtable<Integer, String> h = new Hashtable();
  
-       
+ 
         v.addElement(1);
         v.addElement(2);
  
