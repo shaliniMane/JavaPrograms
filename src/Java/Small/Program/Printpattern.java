@@ -12,7 +12,7 @@ public class Printpattern {
 		int r=sc.nextInt();
 		System.out.println("Enter how many column:");
 	int c =	sc.nextInt();
-		System.out.println("Enter which symbol:");
+		System.out.println("Enter which symbol::");
 		String symbol=sc.next();
 		
 		
