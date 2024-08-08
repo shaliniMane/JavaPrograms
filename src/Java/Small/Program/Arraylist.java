@@ -17,14 +17,6 @@ public class Arraylist {
  
         // Printing elements
         System.out.println(al);
-<<<<<<< HEAD
- // testing demo
-=======
- 
-        //System.out.println("Shaloni");
-        
->>>>>>> branch 'main' of https://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@github.com/shaliniMane/JavaPrograms
-        // Remove element at index 3
         al.remove(3);
  
         // Displaying the ArrayList
