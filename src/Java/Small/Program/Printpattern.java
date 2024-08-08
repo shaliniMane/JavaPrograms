@@ -5,8 +5,7 @@ import java.util.Scanner;
 public class Printpattern {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+	
 		System.out.println("Enter how many rows:");
 		Scanner sc = new Scanner(System.in);
 		int r=sc.nextInt();
