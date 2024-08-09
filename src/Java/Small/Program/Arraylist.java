@@ -17,7 +17,7 @@ public class Arraylist {
         // Printing elements
         System.out.println(al);
         al.remove(3);
- 
+        al.set(0,5);
         // Displaying the ArrayList
         // after deletion
         System.out.println(al);
@@ -25,7 +25,7 @@ public class Arraylist {
         // Printing elements one by one
         for (int i = 0; i < al.size(); i++)
             System.out.print(al.get(i) + " ");
-        
+        System.out.println();
         System.out.println("Shalini");
 	}
 	
